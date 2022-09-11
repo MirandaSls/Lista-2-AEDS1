@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1649531308 source:c:\users\arthu\onedrive\documentos\estudos\c\lista de exercicios 2º\lista de exercicios 2º\main.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<locale.h>
+

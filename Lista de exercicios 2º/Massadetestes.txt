@@ -1,0 +1,91 @@
+01 - 
+
+ENTRADA: 2, 5
+SAIDA: 
+		- O numero 2 e par
+		- O numero 5 e impar 
+       
+02 - 
+
+ENTRADA: Arthur, 6, 5, 7/ Camila, 8, 7, 6/ Jose 5, 5, 5
+SAIDA: 
+		- Parabens Arthur sua media foi 6 voce foi aprovado
+       	- Parabens Camila sua media foi 7 voce foi aprovado
+       	- Infelizmente Jose sua media foi 5 voce foi reprovado
+
+03 - 
+
+ENTRADA: -2, 120, 26
+SAIDA: 
+		- A agua esta em estado solido
+       	- A agua esta em estado gasoso
+       	- A agua esta em estado liquido
+
+04 - 
+
+ENTRADA: -2, 2, 0 
+SAIDA:	
+		O valor de Y é igual a: 8
+		O valor de Y é igual a: 5
+		Valor dado é invalido
+		
+05 - 
+
+ENTRADA: 5, 6, 8/ 4, 3, 7
+SAIDA: 
+		- A, B e C são 5, 6, 8
+		- A, B e C são 3, 4, 7
+
+06 - 
+
+ENTRADA: 6, 3, 5 / 6, 3, 2
+SAIDA: 
+		- O numero 6 é divisível por 3 mas não por 5
+		- O numero 6 é divisivel por 3 e 2 
+07 - 
+
+ENTRADA: 1002 / 3025
+SAIDA:
+		- O numero não possui a característica
+		- O numero possui a característica
+
+08 - 
+
+ENTRADA: 221 / 211 / 311 / 312 / 332
+SAIDA: 	
+		- Bernado
+		- Eustáquio
+		- Luiz
+		- Mário
+		- Artur
+
+09 - 
+
+ENTRADA: 10512 / 10001
+SAIDA:
+		- Não são palíndromos
+		- São palíndromos
+
+10 - 
+
+ENTRADA: Residencial , 200 / Comercial , 200 / Indrustrial , 200
+SAIDA:
+		- O valor da sua conta de água é de 700
+		- O valor da sua conta de água é de 1160
+		- O valor da sua conta de água é de 1600
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		- 
